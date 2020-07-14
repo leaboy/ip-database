@@ -104,6 +104,8 @@ php tests/ip.php -i 58.196.128.0
 ```
  IP 地理位置查询类
  
+ 2020-07-14 leaboy        1, 增加导出功能，方便导入到MySQL等数据库
+ 
  2019-07-25 赵彬言         1，增加自动更新功能，参考 https://blog.shuax.com/archives/QQWryUpdate.html 感谢 https://github.com/itbdw/ip-database/issues/10
  
  2017-09-12 赵彬言         1，缩减返回数据，去掉字段 remark smallarea beginip endip
